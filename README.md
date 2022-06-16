@@ -26,4 +26,16 @@ The Quran Classes are of three types:
 2. "qc", is short for Quran Class or formally known as [Qura'an Tafseer Lecture (Quran Class)](https://www.youtube.com/playlist?list=PLdC3g7t1lPKTHaO-_ZE04Z9h90oye14t-)  
 3. "eqc", is short for English Quran Class or fromally known as [Qur'an Easy Translation and Explaination (Quran Class)](https://www.youtube.com/playlist?list=PLdC3g7t1lPKSWbIBKtQX2bb6s1rYgopL7)  
   
-The Quran Classes are formatted in the way, where first key represents the surah number and then its child key represents the Ayat number.
+The Quran Classes are formatted in the way, where first key represents the surah number and then its child key represents the Ayat number. Then there is JSON object containing the information regarding that ayat i.e. where that ayat was discussed and mentioned.
+```
+"nqc": { <--- Series Name
+  "1": { <--- Surah 1 Al Fatiha
+    "1": { <--- Ayat 1 of Surah 1 Al Fatiha (1:1)
+      "v": "2zjJbc39qc8", <--- It is the video id of YouTube lecture where this ayat is discussed. 
+      "lc": "UgyGvOWBWwVQn63GFZt4AaABAg", <--- It is ID of comment where the timestamps are mentioned
+      "index": 7, <--- It is the number of lecture in the series
+      "t": 1906 <--- It is time in seconds where the 
+    }
+  }
+}
+```
