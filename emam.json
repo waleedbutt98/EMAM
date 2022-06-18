@@ -5266,7 +5266,7 @@
       "lc": "Ugx71pH9lpzgEEYeT7p4AaABAg",
       "index": 19,
       "questions": [
-        { "t": "0:00:00", "text": "Intro !!" },
+        { "t": 0, "text": "Intro !!" },
         { "t": 48, "text": "Stream Start !!" },
         { "t": 161, "text": "Ali Bhai Entrance !!" },
         {
@@ -6344,7 +6344,7 @@
       "lc": "UgzKW80FX0WAFhiy9W94AaABAg",
       "index": 23,
       "questions": [
-        { "t": "0:00:00", "text": "Intro" },
+        { "t": 0, "text": "Intro" },
         {
           "t": 45,
           "text": "Session Started| Session Or Sawwal Poochne K Hawale Se Hidayaat"
@@ -6609,7 +6609,7 @@
       "lc": "UgzsGLWwwozF0Lsfx3d4AaABAg",
       "index": 24,
       "questions": [
-        { "t": "0:00:00", "text": "Start !!" },
+        { "t": 0, "text": "Start !!" },
         { "q": true, "t": 217, "text": "Ali Bhai ki Instructions !!" },
         {
           "q": true,
@@ -6638,7 +6638,7 @@
       "lc": "Ugz4WpVNrFJm6H_GRF54AaABAg",
       "index": 26,
       "questions": [
-        { "t": "0:00:00", "text": "Intro" },
+        { "t": 0, "text": "Intro" },
         {
           "t": 47,
           "text": "Session Started Session Or Sawwal Poochne K Hawale Se Hidayaat"
@@ -6955,7 +6955,7 @@
       "lc": "UgzKQBHJ5NvUKgRiHMR4AaABAg",
       "index": 27,
       "questions": [
-        { "t": "0:00:00", "text": "Intro" },
+        { "t": 0, "text": "Intro" },
         {
           "t": 27,
           "text": "Session Started. Zarori Hidaayat aur Clarifications"
@@ -7259,7 +7259,7 @@
       "lc": "UgwuDsNqMeC5BF1q06l4AaABAg",
       "index": 28,
       "questions": [
-        { "t": "0:00:00", "text": "Intro" },
+        { "t": 0, "text": "Intro" },
         { "t": 41, "text": "Session Started Zarori Hidaayat" },
         { "t": 173, "text": "Ali Bhai Joined the Session" },
         {
@@ -7541,7 +7541,7 @@
       "lc": "UgwzDBiwNmU-N3Qe3NR4AaABAg",
       "index": 29,
       "questions": [
-        { "t": "0:00:00", "text": "Intro" },
+        { "t": 0, "text": "Intro" },
         { "t": 42, "text": "Session Started Zarori Hidaayat" },
         { "t": 170, "text": "Ali_Bhai Joined the Session" },
         {
@@ -7847,6 +7847,233 @@
           "text": "Jab Kalma-Go Kafir ko Islam se Kharij nahi mana jata to phir Qadiyani q islam se kharij hain?"
         },
         { "t": 7329, "text": "Dua Conclusion " }
+      ]
+    },
+    "29": {
+      "v": "AKKVMVN2V5c",
+      "lc": "UgzqZP-9P-6KzrkqsDV4AaABAg",
+      "title": "029-Live Q & A Session With Engineer Muhammad Ali Mirza ( 17-June-2022) | Shahid and Bilal Official",
+      "index": 30,
+      "questions": [
+        { "t": 0, "text": "Instructions !!" },
+        {
+          "q": true,
+          "t": 254,
+          "text": "Murday k Neechay Chadar Bicha k Usko Dafan Kiya Jayega ??"
+        },
+        {
+          "q": true,
+          "t": 376,
+          "text": "Forex Trading Mei Gold Say Trading Jaiz Hai ??"
+        },
+        {
+          "q": true,
+          "t": 562,
+          "text": "Kiya Allama Iqbal, Quaid-e-Azam ne bhi Islamic Touch de kar Politics ki Thi ??"
+        },
+        {
+          "q": true,
+          "t": 791,
+          "text": "Tafseer Ibn-e-Kaseer ko Sab Firqa Le Kar Chaltay ya Sirf Barelvi ??"
+        },
+        {
+          "q": true,
+          "t": 979,
+          "text": "Hinduo ki Nazaro Niyaaz Kha Saktay Hai ??"
+        },
+        {
+          "q": true,
+          "t": 1133,
+          "text": "Airport Security mei Halal Food ni Milta, to mei Waha k Musalmano ko Kese Bataou ??"
+        },
+        {
+          "q": true,
+          "t": 1257,
+          "text": "Milay Jullay Amaal Karnay walo ka Qabar mei Kiya Hoga ??"
+        },
+        {
+          "q": true,
+          "t": 1375,
+          "text": "Noto (Notes/Currency) walay Haar Bana k Bechna Jaiz Hai ??"
+        },
+        {
+          "q": true,
+          "t": 1609,
+          "text": "Kalma Parhnay walo pe Jahanam ki Aag Haraam Ho Jati Hai ??"
+        },
+        {
+          "q": true,
+          "t": 1896,
+          "text": "Rafdio ki Khulfa-e-Rashideen k Khilaaf Film pe Ap Kiya Kehtay Hai ??"
+        },
+        {
+          "q": true,
+          "t": 1992,
+          "text": "Kiya Khabar-e-Wahad ki Hujjat Sabit hai ?? Khabar-e-Wahad ka Inkaar Durust Hoga ??"
+        },
+        { "q": true, "t": 2435, "text": "Deen ki Taleem Kese Hasil Karei ??" },
+        {
+          "q": true,
+          "t": 2649,
+          "text": "Dunya mei Kese Pata Chalay k Museebat jo Ai hai wo Azaab hai ya Azmaish ??"
+        },
+        {
+          "q": true,
+          "t": 2812,
+          "text": "Ulema mei Kuch Log Achay bhi Hotay Hai ?? Hinduo ki Kitabo ka bhi Mutala Karei !!"
+        },
+        {
+          "q": true,
+          "t": 3038,
+          "text": "Hinduo ki Kitabo ka bhi Mutala Karei !!"
+        },
+        {
+          "q": true,
+          "t": 3233,
+          "text": "Ali Bhai ki Videos ko Re Upload or Apnay Purposes k Liye Use Karna ??"
+        },
+        {
+          "q": true,
+          "t": 3466,
+          "text": "Ali Bhai ki Video say lag rha k Nur Pur Sharma ne Gustakhi ki Hi Ni ??"
+        },
+        {
+          "q": true,
+          "t": 3623,
+          "text": "Fajar ki Do Timings, 18 vs 15 Degree ??"
+        },
+        {
+          "q": true,
+          "t": 3692,
+          "text": "Farz namaz mei 3rd aur 4th rakat mei Surat Milana Afzal hai ??"
+        },
+        {
+          "t": 3871,
+          "text": "Ali Bhai ki Shahid And Bilal Bhai ko Instructions !!"
+        },
+        {
+          "q": true,
+          "t": 3978,
+          "text": "Kiya Mannat Har Haal mei Poori Karni Chahye ??"
+        },
+        {
+          "q": true,
+          "t": 4155,
+          "text": "Mard k Lie Kon Kon Mahram Hota Hai ??"
+        },
+        {
+          "q": true,
+          "t": 4474,
+          "text": "Husband ki Pay say Guzara Ni Hota to Govt say Fund le Saktay ???"
+        },
+        {
+          "q": true,
+          "t": 4508,
+          "text": "Rasool Allah صلى الله عليه وآله وسلم ko Gawah Bana k Bheja Gya Hai to Aik Teacher ne Is say Hazar-o-Nazar Sabit Kiya Hai, k Gawah Dekhne Wala Hota Hai ?? "
+        },
+        {
+          "q": true,
+          "t": 4645,
+          "text": "Witr mei Qunoot say Pehle Takbeer Karna Biddat Hai ??"
+        },
+        {
+          "q": true,
+          "t": 4714,
+          "text": "Islaam mei Jazbaat ki Kiya Hasiyyat Hai ??"
+        },
+        {
+          "q": true,
+          "t": 4761,
+          "text": "Machine wala Slaughter Chicken halal Hai ??"
+        },
+        {
+          "q": true,
+          "t": 4817,
+          "text": "Dawat k Liye Sab say Pehle Kiya Seekhei ??"
+        },
+        {
+          "q": true,
+          "t": 4982,
+          "text": "Musanaf Ibn-E-Shaiba Mei Hath Khol Kar Namaz Parhnay Wali Saari Hadith Sahi Hai Ya Sirf Aik Hi ??"
+        },
+        {
+          "q": true,
+          "t": 5039,
+          "text": "Sakeefa Bani Saeda mei Abu Bakar  ko Kiya KArna Chahye Tha ??"
+        },
+        {
+          "q": true,
+          "t": 5071,
+          "text": "Personal Kamai bhi Wirasat mei Taqseem Hogi ??"
+        },
+        {
+          "q": true,
+          "t": 5103,
+          "text": "Kiya Aj kal k Kalma Goh Mushrik bhi Nabi صلى الله عليه وآله وسلم k Zamany k Mushriko ki Tara Hai ?? "
+        },
+        {
+          "q": true,
+          "t": 5233,
+          "text": "Hazrat Isa k Liye \"Mutawwafi\" ka Tarjuma Khaas Kyun Hai ??"
+        },
+        {
+          "q": true,
+          "t": 5491,
+          "text": "Meri Walida Pedaish K Waqt Fout Ho Gai Thi Aur Baap Ne Disown Kar Diya Tha, To Nana Ne Mujhy Apna Naam De Dya Ab Mei Kiya Karu ??"
+        },
+        {
+          "q": true,
+          "t": 5532,
+          "text": "Palto janwar ka Peeshab Paak hai Aur Insaan ka Napaak Kyun ??"
+        },
+        {
+          "q": true,
+          "t": 5800,
+          "text": "Pregnant Aurat Namaz Beth k Ada Kar Sakti Hai ??"
+        },
+        {
+          "q": true,
+          "t": 5979,
+          "text": "Cigarette Factory mei Job Halal Hai ??"
+        },
+        { "q": true, "t": 6073, "text": "Hindu Ahl-e-Kitaab Kyun Ni Hai ??" },
+        {
+          "q": true,
+          "t": 6187,
+          "text": "\"Allah\" ka Matlab kiya Hai ?? Ye Naam hai ya Sift Hai ??"
+        },
+        {
+          "q": true,
+          "t": 6610,
+          "text": "Har Peer Aur Jumaraat ko Nabi صلى الله عليه وآله وسلم ko Logo k Ummat k Amaal Pesh Kiye Jatay Hai ??"
+        },
+        {
+          "q": true,
+          "t": 6791,
+          "text": "Mayyat ki Akhri Surat Dekhna Sawab Hai ??"
+        },
+        {
+          "q": true,
+          "t": 6869,
+          "text": "Zakaat k Sahib-e-Nisaab Honay par, Trust Hospital say Ilaaj Karwa Saktay Hai ??"
+        },
+        { "q": true, "t": 6967, "text": "Taweez ki Shari Hasiyat Kiya Hai ??" },
+        {
+          "q": true,
+          "t": 7042,
+          "text": "Ahl-e-Hadith ka Yazdaani Aur Ahsaan Ilahi k Naray Lagany pe Phakki de dei ??"
+        },
+        {
+          "q": true,
+          "t": 7123,
+          "text": "Artificial Cheezei Pehan Saktay ?? Long Nails, Wig Waghera Jaiz Hai ??"
+        },
+        {
+          "q": true,
+          "t": 7177,
+          "text": "Kursi pe Beth Kar Namaz Parhnay ka Tariqa Bata Dei ??"
+        },
+        { "t": 7296, "text": "Conclusion !!" }
       ]
     },
     "list": "PLdC3g7t1lPKS_Er5szzZdrNK0SUVFLDtO",
@@ -32064,7 +32291,7 @@
       "lc": "Ugy4p4U1PXRLi42Rdjd4AaABAg",
       "index": 219,
       "topics": [
-        { "t": "0:00:00", "text": "Introduction !! 5 ilmi Points !!" },
+        { "t": 0, "text": "Introduction !! 5 ilmi Points !!" },
         {
           "t": 240,
           "text": "Ilmi Point # 1, Qanoon Hath mei lene ki Ijazaat !!"
@@ -32103,7 +32330,7 @@
       "index": 220,
       "topics": [
         {
-          "t": "0:00:00",
+          "t": 0,
           "text": "Ayat 92, \"Aur mein quran ki tilawat kerta rahon jo raah-e-raast per...\""
         },
         {
@@ -32129,7 +32356,7 @@
       "lc": "UgzMdTwCFKL9NauelQB4AaABAg",
       "index": 223,
       "topics": [
-        { "t": "0:00:00", "text": "Khutbah Aur Durood !!" },
+        { "t": 0, "text": "Khutbah Aur Durood !!" },
         { "t": 87, "text": "Introduction !!" },
         { "t": 192, "text": "Haqeem Luqman pe 3 Ilmi Points !!" },
         {
@@ -32172,7 +32399,7 @@
       "lc": "UgwsnU57_67Sm3ZRJel4AaABAg",
       "index": 224,
       "topics": [
-        { "t": "0:00:00", "text": "Khutbah Aur Durood !!" },
+        { "t": 0, "text": "Khutbah Aur Durood !!" },
         { "t": 117, "text": "Introduction !!" },
         {
           "q": true,
@@ -32703,7 +32930,7 @@
       "lc": "UgyK_wMunKF5kuQVhC54AaABAg",
       "index": 226,
       "topics": [
-        { "t": "0:00:00", "text": "Khutbah Aur Durood !!" },
+        { "t": 0, "text": "Khutbah Aur Durood !!" },
         { "t": 119, "text": "Introduction !!" },
         { "t": 403, "text": "Question Answers !!" },
         {
@@ -32843,7 +33070,7 @@
       "lc": "UgxxawxVd9kQNd92_C94AaABAg",
       "index": 227,
       "topics": [
-        { "t": "0:00:00", "text": "Khutbah Aur Durood !!" },
+        { "t": 0, "text": "Khutbah Aur Durood !!" },
         { "t": 118, "text": "Introduction !!" },
         { "t": 218, "text": "Question/Answer Start !! Ikhlaas Aur Dikhawa !!" },
         {
@@ -33186,7 +33413,7 @@
       "lc": "UgxYP59AGgmn6DBzFbR4AaABAg",
       "index": 227,
       "topics": [
-        { "t": "00:00", "text": "Khutbah Aur Durood !!" },
+        { "t": 0, "text": "Khutbah Aur Durood !!" },
         { "t": 132, "text": "Intro !! Surah Ankaboot !!" },
         { "t": 265, "text": "Ayat 1-3, Kya Imaan walo ko Azmaya na Jay ga ??" },
         { "t": 265, "text": "Ayat 1, \"Alif-Laam-Meem...\"" },
@@ -33255,7 +33482,7 @@
       "lc": "UgyGMxXL_5qN0XtwBjx4AaABAg",
       "index": 228,
       "topics": [
-        { "t": "00:00", "text": "Dua and Durood !!" },
+        { "t": 0, "text": "Dua and Durood !!" },
         { "t": 126, "text": "Surah-e-ROOM Ayat No. 1 to 7 !!" },
         { "t": 267, "text": "Ayat 1-7, ROM ki Peshangoi !!" },
         { "t": 277, "text": "Ayat 1, “Alif-Laam-Meem…”" },
@@ -33307,7 +33534,7 @@
       "lc": "UgyDsfQe8iy7UB_SRXR4AaABAg",
       "index": 229,
       "topics": [
-        { "t": "0:00:00", "text": "Khutbah Aur Durood !!" },
+        { "t": 0, "text": "Khutbah Aur Durood !!" },
         {
           "t": 128,
           "text": "Introduction !! BURMA kay Rohingya MUSLIMS ki Nasal-Kushi peh Counter Narrative !!"
@@ -33399,10 +33626,7 @@
       "lc": "UgxuX9K5ewXkAZk9xch4AaABAg",
       "index": 234,
       "topics": [
-        {
-          "t": "00:00",
-          "text": "Ayat 9-27, Ghazwa-e-Khandaq pe Commentary !!"
-        },
+        { "t": 0, "text": "Ayat 9-27, Ghazwa-e-Khandaq pe Commentary !!" },
         { "t": 485, "text": "Pass-e-Manzar !! Yahoodi Saazishei !!" },
         {
           "t": 2266,
@@ -33492,7 +33716,7 @@
       "lc": "UgzUfAgCBfKzWoITrhV4AaABAg",
       "index": 235,
       "topics": [
-        { "t": "00:00", "text": "Khutbah Aur Durood !!" },
+        { "t": 0, "text": "Khutbah Aur Durood !!" },
         { "t": 124, "text": "Introduction !!" },
         {
           "t": 442,
@@ -33578,7 +33802,7 @@
       "lc": "UgxIurEGW8uKsP9jvR14AaABAg",
       "index": 237,
       "topics": [
-        { "t": "0:00:00", "text": "Khutbah Aur Durood !!" },
+        { "t": 0, "text": "Khutbah Aur Durood !!" },
         { "t": 123, "text": "Introduction !!" },
         {
           "t": 395,
@@ -33707,7 +33931,7 @@
       "lc": "UgyLoJk0WZ1aw0zRX3V4AaABAg",
       "index": 237,
       "topics": [
-        { "t": "0:00:00", "text": "Khutbah Aur Durood !!" },
+        { "t": 0, "text": "Khutbah Aur Durood !!" },
         {
           "t": 115,
           "text": "Engineer Muhammad Ali Mirza ki Dawat-e-HAQ say motalliq 5-Impt. Clarifications"
@@ -33779,7 +34003,7 @@
       "lc": "Ugxn7q02Q_qhrztYPGh4AaABAg",
       "index": 238,
       "topics": [
-        { "t": "0:00:00", "text": "Khutbah Aur Durood !!" },
+        { "t": 0, "text": "Khutbah Aur Durood !!" },
         {
           "t": 119,
           "text": "Introduction !! Ahl-e-QUR'AN aur Ahl-e-HADITH ki Haqeeqi ILMI Kharabiyan ?? 3 Ilmi Points !"
@@ -33884,7 +34108,7 @@
       "lc": "Ugzrjdff4ZrY3NqWdIJ4AaABAg",
       "index": 241,
       "topics": [
-        { "t": "00:00", "text": "Khutbah Aur Durood !!" },
+        { "t": 0, "text": "Khutbah Aur Durood !!" },
         { "t": 127, "text": "Introduction !!" },
         {
           "t": 156,
@@ -34018,7 +34242,7 @@
       "lc": "Ugwm2sFrzVDXfc2VPOR4AaABAg",
       "index": 242,
       "topics": [
-        { "t": "0:00:00", "text": " Khutbah Aur Durood !!" },
+        { "t": 0, "text": " Khutbah Aur Durood !!" },
         { "t": 163, "text": " Introduction !!" },
         {
           "t": 131,
@@ -34298,7 +34522,7 @@
       "lc": "UgzbJWJqQ3paqNszWsV4AaABAg",
       "index": 245,
       "topics": [
-        { "t": "0:00:00", "text": "Khutbah Aur Durood !!" },
+        { "t": 0, "text": "Khutbah Aur Durood !!" },
         { "t": 120, "text": "Introduction !!" },
         { "t": 302, "text": "Surah As Sajadah Ayat 12-24 !!" },
         {
@@ -34361,7 +34585,7 @@
       "lc": "UgzYGEwfq_e5wdFUWcd4AaABAg",
       "index": 246,
       "topics": [
-        { "t": "0:00:00", "text": "Khutbah Aur Durood !!" },
+        { "t": 0, "text": "Khutbah Aur Durood !!" },
         { "t": 119, "text": "Introduction !!" },
         {
           "t": 242,
@@ -34395,7 +34619,7 @@
       "lc": "UgzUqdBtz3C1djaXant4AaABAg",
       "index": 247,
       "topics": [
-        { "t": "0:00:00", "text": "Khutbah Aur Durood !!" },
+        { "t": 0, "text": "Khutbah Aur Durood !!" },
         { "t": 122, "text": "Introduction !!" },
         {
           "t": 305,
@@ -34484,7 +34708,7 @@
       "lc": "UgzPExZHg_oYIS5BOBN4AaABAg",
       "index": 249,
       "topics": [
-        { "t": "0:00:00", "text": "Khutbah Aur Durood !!" },
+        { "t": 0, "text": "Khutbah Aur Durood !!" },
         {
           "t": 124,
           "text": "Introduction !! Ali Bhai ki Tajweed ki History !!"
@@ -34551,7 +34775,7 @@
       "lc": "UgxJtuF6-axvPXyYyBp4AaABAg",
       "index": 250,
       "topics": [
-        { "t": "0:00:00", "text": "Khutbah Aur Durood !!" },
+        { "t": 0, "text": "Khutbah Aur Durood !!" },
         { "t": 124, "text": "Introduction !!" },
         { "t": 506, "text": "Start of Namaz-e-Muhammadi !!" },
         { "t": 767, "text": "Takbeer-e-Tehreema !!" },
@@ -38628,7 +38852,7 @@
       "lc": "UgwwhF31-RWG8xG-eS54AaABAg",
       "index": 221,
       "topics": [
-        { "t": "0:00:00", "text": "Khutbah Aur Durood !!!" },
+        { "t": 0, "text": "Khutbah Aur Durood !!!" },
         { "t": 134, "text": "Introduction !!" },
         {
           "t": 588,
@@ -38949,7 +39173,7 @@
       "lc": "Ugwl0ITI4hbCJabtBs14AaABAg",
       "index": 221,
       "topics": [
-        { "t": "0:00:00", "text": "Khutbah Aur Durood !!" },
+        { "t": 0, "text": "Khutbah Aur Durood !!" },
         { "t": 111, "text": "Mas’Alah 53 E Ka Taruf" },
         {
           "t": 226,
@@ -39364,7 +39588,7 @@
       "lc": "Ugy4hMfIf5jTNPacuax4AaABAg",
       "index": 231,
       "topics": [
-        { "t": "0:00:00", "text": "Khutbah Aur Durood !!" },
+        { "t": 0, "text": "Khutbah Aur Durood !!" },
         {
           "t": 123,
           "text": "Introduction !! Is Dawat say Mutaliq Details Aur Instructions !!"
@@ -39590,11 +39814,7 @@
       "lc": "Ugzei60SYzFHhRiv2il4AaABAg",
       "index": 232,
       "topics": [
-        {
-          "q": true,
-          "t": "0:00:00",
-          "text": "Bismillah k Beghair Wuzu Ho Jata ??"
-        },
+        { "q": true, "t": 0, "text": "Bismillah k Beghair Wuzu Ho Jata ??" },
         {
           "q": true,
           "t": 63,
@@ -40115,7 +40335,7 @@
       "lc": "Ugy9m6k2fk7mELRuYgR4AaABAg",
       "index": 239,
       "topics": [
-        { "t": "0:00:00", "text": "Khutbah Aur Durood !!" },
+        { "t": 0, "text": "Khutbah Aur Durood !!" },
         { "t": 116, "text": "Introduction !!" },
         { "t": 481, "text": "Question Answers Start !!" },
         {
@@ -40734,7 +40954,7 @@
       "topics": [
         {
           "q": true,
-          "t": "0:00:00",
+          "t": 0,
           "text": "Namaz-e-Janaza pe Tafseeli Lecture Bana Dei !!"
         },
         {
@@ -41690,7 +41910,7 @@
       "lc": "UgzXM3ARNUPJoGsj_op4AaABAg",
       "index": 243,
       "topics": [
-        { "t": "0:00:00", "text": "Khutbah Aur Durood !!" },
+        { "t": 0, "text": "Khutbah Aur Durood !!" },
         { "t": 111, "text": "Introduction !!" },
         {
           "q": true,
@@ -41926,11 +42146,7 @@
       "lc": "Ugz-CVBLIK2iiYSTi5Z4AaABAg",
       "index": 244,
       "topics": [
-        {
-          "q": true,
-          "t": "0:00:00",
-          "text": "Ganay/Movies ki CDs ka Kaam Hai ?? "
-        },
+        { "q": true, "t": 0, "text": "Ganay/Movies ki CDs ka Kaam Hai ?? " },
         {
           "q": true,
           "t": 74,
@@ -42712,7 +42928,7 @@
       "lc": "UgzW4zhZBaQwVfooUed4AaABAg",
       "index": 247,
       "topics": [
-        { "t": "0:00:00", "text": "Khutbah Aur Durood !!" },
+        { "t": 0, "text": "Khutbah Aur Durood !!" },
         { "t": 116, "text": "Introduction !!" },
         { "t": 399, "text": "Questions and Answer Session !!" },
         {
@@ -43009,7 +43225,7 @@
       "index": 248,
       "topics": [
         {
-          "t": "0:00:00",
+          "t": 0,
           "text": "Gm Bhai Aur Usman Bhai K Contact !! Questions And Answers K Lye Phone Numbers !!"
         },
         {
@@ -56393,7 +56609,7 @@
       "index": 30,
       "questions": [
         {
-          "t": "0:00:00",
+          "t": 0,
           "text": "Start of 030-Public Q & A Session & Meeting (Entry & Introduction)"
         },
         {
@@ -56638,7 +56854,7 @@
       "index": 31,
       "questions": [
         {
-          "t": "0:00:00",
+          "t": 0,
           "text": "Start of 031-Public Q & A Session & Meeting (Entry & Introduction)"
         },
         {
@@ -56917,7 +57133,7 @@
       "index": 32,
       "questions": [
         {
-          "t": "0:00:00",
+          "t": 0,
           "text": "Start of 032-Public Q & A Session & Meeting (Entry & Introduction)"
         },
         {
@@ -57103,7 +57319,7 @@
       "index": 33,
       "questions": [
         {
-          "t": "0:00:00",
+          "t": 0,
           "text": "Start of 033-Public Q & A Session & Meeting (Entry & Introduction)"
         },
         {
@@ -57290,7 +57506,7 @@
       "questions": [
         {
           "q": true,
-          "t": "0:00:00",
+          "t": 0,
           "text": "Start of 034-Public Q & A Session & Meeting (Entry & Introduction)"
         },
         {
@@ -57522,7 +57738,7 @@
       "index": 35,
       "questions": [
         {
-          "t": "0:00:00",
+          "t": 0,
           "text": "Start of 035-Public Q & A Session & Meeting (Entry & Introduction)"
         },
         { "q": true, "t": 55, "text": "Imran Khan Contributions in UN " },
@@ -57859,7 +58075,7 @@
       "index": 36,
       "questions": [
         {
-          "t": "0:00:00",
+          "t": 0,
           "text": "Start of 036-Public Q & A Session & Meeting of SUNDAY with Engineer Muhammad Ali Mirza Bhai."
         },
         {
@@ -58049,7 +58265,7 @@
       "lc": "UgwuDsNqMeC5BF1q06l4AaABAg",
       "index": 37,
       "questions": [
-        { "t": "0:00:00", "text": "start of 037-public q & a session !!" },
+        { "t": 0, "text": "start of 037-public q & a session !!" },
         {
           "q": true,
           "t": 89,
@@ -96043,7 +96259,7 @@
       "title": "Engineer Muhammad Ali Mirza STUDENTS ki Adalat mein ! A Special Session Recorded on 27-March-2022 !!",
       "index": 1,
       "questions": [
-        { "t": "0:00:00", "text": "Introduction !!" },
+        { "t": 0, "text": "Introduction !!" },
         {
           "q": true,
           "t": 221,
@@ -96200,7 +96416,7 @@
       "index": 2,
       "title": "Hammad Cheema's Special Q & A Session with Engineer Muhammad Ali Mirza ! Recorded on 22-May-2022",
       "questions": [
-        { "t": "00:00", "text": "Introduction !!" },
+        { "t": 0, "text": "Introduction !!" },
         {
           "q": true,
           "t": 36,
@@ -96238,7 +96454,7 @@
       "index": 3,
       "title": "Mooroo Podcast #48 Engineer Muhammad Ali Mirza",
       "questions": [
-        { "t": "00:00", "text": "Introduction !!" },
+        { "t": 0, "text": "Introduction !!" },
         {
           "q": true,
           "t": 49,
