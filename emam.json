@@ -50267,6 +50267,132 @@
         "lc": "UgzpDtXa-srcbBIUR654AaABAg",
         "index": 120,
         "t": 3484
+      },
+      "94": {
+        "v": "c0rFTNasUo0",
+        "lc": "Ugxua_GTJW8lTQ-Cj8d4AaABAg",
+        "index": 121,
+        "t": 164
+      },
+      "95": {
+        "v": "c0rFTNasUo0",
+        "lc": "Ugxua_GTJW8lTQ-Cj8d4AaABAg",
+        "index": 121,
+        "t": 370
+      },
+      "96": {
+        "v": "c0rFTNasUo0",
+        "lc": "Ugxua_GTJW8lTQ-Cj8d4AaABAg",
+        "index": 121,
+        "t": 526
+      },
+      "97": {
+        "v": "c0rFTNasUo0",
+        "lc": "Ugxua_GTJW8lTQ-Cj8d4AaABAg",
+        "index": 121,
+        "t": 677
+      },
+      "98": {
+        "v": "c0rFTNasUo0",
+        "lc": "Ugxua_GTJW8lTQ-Cj8d4AaABAg",
+        "index": 121,
+        "t": 815
+      },
+      "99": {
+        "v": "c0rFTNasUo0",
+        "lc": "Ugxua_GTJW8lTQ-Cj8d4AaABAg",
+        "index": 121,
+        "t": 841
+      },
+      "100": {
+        "v": "c0rFTNasUo0",
+        "lc": "Ugxua_GTJW8lTQ-Cj8d4AaABAg",
+        "index": 121,
+        "t": 887
+      },
+      "101": {
+        "v": "c0rFTNasUo0",
+        "lc": "Ugxua_GTJW8lTQ-Cj8d4AaABAg",
+        "index": 121,
+        "t": 1027
+      },
+      "102": {
+        "v": "c0rFTNasUo0",
+        "lc": "Ugxua_GTJW8lTQ-Cj8d4AaABAg",
+        "index": 121,
+        "t": 1720
+      },
+      "103": {
+        "v": "c0rFTNasUo0",
+        "lc": "Ugxua_GTJW8lTQ-Cj8d4AaABAg",
+        "index": 121,
+        "t": 2213
+      },
+      "104": {
+        "v": "c0rFTNasUo0",
+        "lc": "Ugxua_GTJW8lTQ-Cj8d4AaABAg",
+        "index": 121,
+        "t": 2318
+      },
+      "105": {
+        "v": "c0rFTNasUo0",
+        "lc": "Ugxua_GTJW8lTQ-Cj8d4AaABAg",
+        "index": 121,
+        "t": 2336
+      },
+      "106": {
+        "v": "c0rFTNasUo0",
+        "lc": "Ugxua_GTJW8lTQ-Cj8d4AaABAg",
+        "index": 121,
+        "t": 2642
+      },
+      "107": {
+        "v": "c0rFTNasUo0",
+        "lc": "Ugxua_GTJW8lTQ-Cj8d4AaABAg",
+        "index": 121,
+        "t": 2721
+      },
+      "108": {
+        "v": "c0rFTNasUo0",
+        "lc": "Ugxua_GTJW8lTQ-Cj8d4AaABAg",
+        "index": 121,
+        "t": 2772
+      },
+      "109": {
+        "v": "c0rFTNasUo0",
+        "lc": "Ugxua_GTJW8lTQ-Cj8d4AaABAg",
+        "index": 121,
+        "t": 2816
+      },
+      "110": {
+        "v": "c0rFTNasUo0",
+        "lc": "Ugxua_GTJW8lTQ-Cj8d4AaABAg",
+        "index": 121,
+        "t": 2862
+      },
+      "111": {
+        "v": "c0rFTNasUo0",
+        "lc": "Ugxua_GTJW8lTQ-Cj8d4AaABAg",
+        "index": 121,
+        "t": 3001
+      },
+      "112": {
+        "v": "c0rFTNasUo0",
+        "lc": "Ugxua_GTJW8lTQ-Cj8d4AaABAg",
+        "index": 121,
+        "t": 3028
+      },
+      "113": {
+        "v": "c0rFTNasUo0",
+        "lc": "Ugxua_GTJW8lTQ-Cj8d4AaABAg",
+        "index": 121,
+        "t": 3039
+      },
+      "114": {
+        "v": "c0rFTNasUo0",
+        "lc": "Ugxua_GTJW8lTQ-Cj8d4AaABAg",
+        "index": 121,
+        "t": 3078
       }
     },
     "list": "PLdC3g7t1lPKQIyoPcakbDO3H4Q-BGMpWK",
@@ -96537,13 +96663,11 @@
       }
     }
   },
-  "critical": {
-    "list": "PLdC3g7t1lPKRV46AXCQCZijDpQby8KBM5",
-    "Students_ki_Adalat": {
+  "critical": [
+    {
       "v": "D5Mo4y8El4o",
       "lc": "UgzwTVDmxM2wFUe2DqB4AaABAg",
       "title": "Engineer Muhammad Ali Mirza STUDENTS ki Adalat mein ! A Special Session Recorded on 27-March-2022 !!",
-      "index": 1,
       "questions": [
         { "t": 0, "text": "Introduction !!" },
         {
@@ -96696,48 +96820,9 @@
         { "t": 12963, "text": "Dua !!" }
       ]
     },
-    "Hammad_Cheema_s_Special_Q_&_A": {
-      "v": "fUd-CiELLV0",
-      "lc": "Ugyuv6HBcvP8aYBI3gd4AaABAg",
-      "index": 2,
-      "title": "Hammad Cheema's Special Q & A Session with Engineer Muhammad Ali Mirza ! Recorded on 22-May-2022",
-      "questions": [
-        { "t": 0, "text": "Introduction !!" },
-        {
-          "q": true,
-          "t": 36,
-          "text": "Ghamidi Sb ko Engineer Sahb ne Jahil Kaha ??"
-        },
-        {
-          "q": true,
-          "t": 376,
-          "text": "Ap Sunday k Sath Sath Karobari Logo k Liye Friday ko Bhi Betha Karei ??"
-        },
-        {
-          "q": true,
-          "t": 548,
-          "text": "Ap Corona k Dino mei Hand Shake Kartay Thay Lekin Maulana Tariq Jamil Ni Kartay Thay ??"
-        },
-        {
-          "q": true,
-          "t": 578,
-          "text": "Maula Ali ne Jin Logo ko Jalaya Tha Unpay Maula Ali ka Rujoo Sabit Hai ??? Rujoo Kese Kartay ?? Rujoo Kis Waqt Sabit Hota ??"
-        },
-        {
-          "q": true,
-          "t": 1170,
-          "text": "\"Ali Teri Mere Sath woi Nisbat hai jo Musa ki Haroon Say\" Is say Hazrat Ali ki Khilafat Nikalti Hai ?? Haqeeqi Khalifa Kon ?? Khalifa Kese Chunay Jaye Ga ??"
-        },
-        {
-          "t": 1560,
-          "text": "Students k Liye Special Dua Kar Dei ?? Apnay Students jo Social Media pe Ali Bhai ki Dawat le Kar Chal Rahay Unkay Baray mei Kuch Keh Dei ?? Social Media pe Memes ???"
-        }
-      ]
-    },
-    "Mooroo_Podcast": {
+    {
       "v": "bI1KzH1Rt-k",
       "lc": "UgzjiKt8NxYzs1x0aJF4AaABAg",
-      "index": 3,
       "title": "Mooroo Podcast #48 Engineer Muhammad Ali Mirza",
       "questions": [
         { "t": 0, "text": "Introduction !!" },
@@ -96845,11 +96930,10 @@
         { "t": 6149, "text": "Conclusion Aur Dua !!" }
       ]
     },
-    "NADIR ALI PODCAST": {
+    {
       "v": "FbF3zFI9ryA",
       "lc": "Ugwl9-NcO70_zfYyP8F4AaABAg",
       "title": "Nadir Ali Podcast Featuring Engineer Muhammad Ali Mirza",
-      "index": 3,
       "questions": [
         { "t": 0, "text": "Introduction !!" },
         {
@@ -96934,6 +97018,46 @@
         },
         { "t": 3272, "text": "Conclusion !!" }
       ]
+    },
+    {
+      "v": "0g7CzuznjTw",
+      "lc": "UgxSol1Y0Nm6RfgvgP54AaABAg",
+      "title": "Reply to Hafiz Saad Rizvi حفظہ اللہ of TLP on \"05-Gustakhian of BABAs\" ! Engineer Muhammad Ali Mirza",
+      "questions": [
+        { "t": 0, "text": "Teaser !!" },
+        { "t": 324, "text": "Hafiz Saad Rizvi ka Ilzaam !!" },
+        { "t": 497, "text": "Buzurgo ka Taaruf Khadim Rizvi ne Karaya !!" },
+        {
+          "t": 716,
+          "text": "Barelvi, Deobandi Ahl-e-Hadith Bhai Bhai ?? Sulah-e-Kulli ??"
+        },
+        {
+          "t": 980,
+          "text": "Reply to Saad Rizvi, Engineer Logo ko Babo say Door Karta !! Buzurgo k Taruf pe 5 References !!!"
+        },
+        {
+          "t": 1191,
+          "text": "Ref # 1: Imam Ahmed Raza Khan Barelvi ka Chishti Rasool Allah Kalma ko Endorse Karna !!"
+        },
+        {
+          "t": 1592,
+          "text": "Ref # 2: Kashaf Al-Majoob mei Nabi صلى الله عليه وآله وسلم pe Sukar ka Ilzaam (Naoozubillah) !! Nabi صلى الله عليه وآله وسلم ne Zaib bin Harisa رضي الله عنه ki Biwi ko Naked Dekha (Naoozubillah) !!"
+        },
+        {
+          "t": 1856,
+          "text": "Ref # 3: Kashaf Al-Majoob mei Nabi صلى الله عليه وآله وسلم ki Qabar mei Hadiyon (Naoozubillah) ka Zikar !!"
+        },
+        {
+          "t": 2049,
+          "text": "Ref # 4: Kashaf Al-Majoob mei Ba Yazeed Bustami ka Mutakabarna Dawa, Unkay mu say Allah Bolta !! Tamam Ambia Ba Yazeed k Jhanday k Neechay Ho gay (Naoozubillah) !!"
+        },
+        {
+          "t": 2348,
+          "text": "Ref # 5: Tazkaratul Aulia mei Ba Yazeed ke Meraj !!"
+        },
+        { "t": 2519, "text": "Election Voting Offer to Saad Rizvi !!" },
+        { "t": 2616, "text": "Buzurgo Ki Shatriaat Muaaf Hai ??" }
+      ]
     }
-  }
+  ]
 }
